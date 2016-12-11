@@ -24,17 +24,17 @@
             <Button layoutX="283.0" layoutY="331.0" mnemonicParsing="false" onAction="#Restart" prefHeight="46.0" prefWidth="68.0" style="-fx-background-color: RED;" text="Restart" />
             <Label layoutX="195.0" layoutY="37.0" text="The winner is :" />
             <TextField fx:id="winner" editable="false" layoutX="283.0" layoutY="33.0" />
-            <ImageView fitHeight="46.0" fitWidth="44.0" layoutX="437.0" layoutY="134.0">
+            <ImageView fitHeight="75.0" fitWidth="107.0" layoutX="405.0" layoutY="120.0">
                <image>
                   <Image url="@../photos/ciseau.PNG" />
                </image>
             </ImageView>
-            <ImageView fitHeight="46.0" fitWidth="44.0" layoutX="262.0" layoutY="134.0">
+            <ImageView fitHeight="75.0" fitWidth="96.0" layoutX="234.0" layoutY="119.0">
                <image>
                   <Image url="@../photos/feuille.PNG" />
                </image>
             </ImageView>
-            <ImageView fitHeight="46.0" fitWidth="44.0" layoutX="90.0" layoutY="134.0">
+            <ImageView fitHeight="75.0" fitWidth="96.0" layoutX="62.0" layoutY="121.0">
                <image>
                   <Image url="@../photos/pierre.PNG" />
                </image>
