@@ -12,7 +12,7 @@ import java.net.URL;
 import java.util.ResourceBundle;
 
 public class Controller implements Initializable{
-
+//Comments 
 
     @FXML
     private TextArea scoreMe;
